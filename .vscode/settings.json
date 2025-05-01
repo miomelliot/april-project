@@ -1,0 +1,8 @@
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportAttributeAccessIssue": "none",
+        "reportMissingModuleSource": "none",
+        "reportPossiblyUnboundVariable": "information",
+    },
+}
